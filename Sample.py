@@ -5,5 +5,6 @@ def connect_to_rds():
     db_admin_password = "AKIA_SUPER_SECRET_KEY_999"
     #chumma comment
     # Normal logic
+    ###
     print("Connecting to the database...")
     return True
